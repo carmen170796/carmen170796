@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carmen Mendoza 
-- 👀 I’m on my way to become a full stack developer 
+- 👀 Ex dentist, on the path of software development
 
 <!---
 carmen170796/carmen170796 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
